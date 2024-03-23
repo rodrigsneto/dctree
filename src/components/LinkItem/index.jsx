@@ -1,4 +1,4 @@
-import './Link.css';
+import './LinkItem.css';
 
 export default function Link({title, description, label}) {
     return (
